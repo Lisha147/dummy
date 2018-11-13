@@ -1,9 +1,9 @@
 {
 
-"data":	[
+"data":[
       
 		{
-     	 "id":1,
+     			 "id":1,
    
   			 "temperature":23,
      
@@ -12,12 +12,9 @@
 		},
       
  		{
-      
-			"id":2,
-   
-  			 "temperature":35,
- 
-  			   "humidity":40
+      			"id":2,
+   			 "temperature":35,
+			"humidity":40
    
   		 },
      
