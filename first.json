@@ -3,29 +3,29 @@
 "data":	[
       
 		{
-     	 "id":1
+     	 "id":1,
    
-  			 "temperature":23.5C
+  			 "temperature":23.5C,
      
  			"humidity":45
       
-		}
+		},
       
  		{
       
-			"id":2
+			"id":2,
    
-  			 "temperature":35.5C
+  			 "temperature":35.5C,
  
   			   "humidity":40
    
-  		 }
+  		 },
      
   		{
      
- 			"id":3
+ 			"id":3,
    
- 			  "temperature":45.5C
+ 			  "temperature":45.5C,
    
 			   "humidity":30
    
