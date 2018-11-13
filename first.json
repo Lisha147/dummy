@@ -1,0 +1,36 @@
+{
+
+"data":	[
+      
+		{
+     	 "id":1
+   
+  			 "temperature":23.5C
+     
+ 			"humidity":45
+      
+		}
+      
+ 		{
+      
+			"id":2
+   
+  			 "temperature":35.5C
+ 
+  			   "humidity":40
+   
+  		 }
+     
+  		{
+     
+ 			"id":3
+   
+ 			  "temperature":45.5C
+   
+			   "humidity":30
+   
+  		 }
+   
+	  ]
+ 
+ }
